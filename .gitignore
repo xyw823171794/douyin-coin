@@ -1,0 +1,13 @@
+﻿# 运行时产物
+coin.log
+coin.stop
+coin.lock
+dy.log
+*.png
+__pycache__/
+*.pyc
+
+# 调试脚本
+_patch.py
+run_stdout.log
+*.log
